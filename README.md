@@ -2,3 +2,6 @@
 REM 1 video panel
 
 Please view the serial number prefix ("A", "B", ect) of your panels. Then, navigate to the appropriate folder for your LED batch. Selecting the incorrect LED batch will casue the color calibration to show incorrectly.
+
+These firmware files are intended to be uploaded with the Novastar Coex VMP software.
+https://www.novastar.tech/downloads/
