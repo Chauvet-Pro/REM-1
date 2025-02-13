@@ -5,3 +5,9 @@ Please view the serial number prefix ("A", "B", ect) of your panels. Then, navig
 
 These firmware files are intended to be uploaded with the Novastar Coex VMP software.
 https://www.novastar.tech/downloads/
+
+V1.00.03.ncp
+Notes-
+
+V1.00.04.ncp
+Notes-
