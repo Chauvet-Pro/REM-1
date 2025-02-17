@@ -17,7 +17,8 @@ Notes-
 V1.00.03.ncp
 - Batch A, launching version
 
-- [REM 1-SQ, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
+
+[REM 1-SQ, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
 
 Notes-
 
