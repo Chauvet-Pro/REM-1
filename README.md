@@ -14,5 +14,12 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 
 Notes-
 
-V1.00.04.ncp
-- version 0.04. 
+V1.00.03.ncp
+- Batch A, launching version
+
+[Batch "B"]()
+
+Notes-
+
+V1.00.0#.ncp
+- Batch B, launching version
