@@ -22,4 +22,6 @@ V1.00.03.ncp
 Notes-
 
 V1.00.0#.ncp
-- Batch B, launching version
+- Batch B
+- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+- Bug Fixes
