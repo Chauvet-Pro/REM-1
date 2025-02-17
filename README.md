@@ -15,4 +15,4 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 Notes-
 
 V1.00.04.ncp
-Notes-
+- Fixed RDM issues
