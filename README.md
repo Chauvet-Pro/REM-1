@@ -10,14 +10,21 @@ These firmware files are intended to be uploaded with the [Novastar Coex VMP sof
 
 ## Software Versions
 
-[Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
+[REM 1, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
 
 Notes-
 
 V1.00.03.ncp
 - Batch A, launching version
 
-[Batch "B"]()
+- [REM 1-SQ, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
+
+Notes-
+
+V1.00.03.ncp
+- Batch A, launching version
+
+[REM  1, Batch "B"]()
 
 Notes-
 
