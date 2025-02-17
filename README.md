@@ -8,7 +8,7 @@ Please review the serial number prefix ("A", "B", ect) of your panels. Then, nav
 
 These firmware files are intended to be uploaded with the [Novastar Coex VMP software](https://www.novastar.tech/downloads/).
 
-## Softwre Versions
+## Software Versions
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
 
