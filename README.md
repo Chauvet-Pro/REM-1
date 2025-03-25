@@ -33,4 +33,5 @@ V1.00.03.ncp
 
 Notes-
 
-
+V1.00.04.ncp
+- Batch B, launching version
