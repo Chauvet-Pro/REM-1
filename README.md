@@ -17,6 +17,10 @@ Notes-
 V1.00.03.ncp
 - Batch A, launching version
 
+V1.00.04.ncp
+- Batch A
+- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+- Bug Fixes
 
 [REM 1-SQ, Batch "A"](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
 
@@ -29,7 +33,4 @@ V1.00.03.ncp
 
 Notes-
 
-V1.00.0#.ncp
-- Batch B
-- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
-- Bug Fixes
+
