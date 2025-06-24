@@ -16,7 +16,7 @@ Uncheck Full-Grayscale box when module flashing and saving every panel.
 
 ## REM 1
 
-## BATCH A
+## BATCH "A"
 Notes-
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
@@ -27,7 +27,7 @@ Notes-
 - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
 - Bug Fixes
 
-## BATCH B
+## BATCH "B"
 
 [V1.00.04](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
 - Batch B, Launch Version
