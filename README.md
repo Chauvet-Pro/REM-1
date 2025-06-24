@@ -29,7 +29,7 @@ Notes-
 
 ## BATCH B
 
-[V1.00.04]
+[V1.00.04](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
 - Batch B, Launch Version
 
 ## REM 1-SQ, Batch "A"
