@@ -14,7 +14,7 @@ Notes-
 
 Uncheck Full-Grayscale box when module flashing and saving every panel.
 
-## REM 1
+# REM 1
 
 ## BATCH "A"
 Notes-
@@ -32,7 +32,7 @@ Notes-
 [V1.00.04](https://github.com/Chauvet-Pro/REM-1/blob/main/NCP_Files/REM1%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
 - Batch B, Launch Version
 
-## REM 1-SQ
+# REM 1-SQ
 
 ## Batch "A"
 Notes-
