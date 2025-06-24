@@ -14,7 +14,7 @@ Notes-
 
 Uncheck Full-Grayscale box when module flashing and saving every panel.
 
-[REM 1, Batch "A"]
+## REM 1, Batch "A"
 
 Notes-
 
