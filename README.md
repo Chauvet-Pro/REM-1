@@ -37,7 +37,7 @@ Notes-
 ## Batch "A"
 Notes-
 
-[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-1/blob/cf7b914aa11d03d6f341629f3423302a30733ace/NCP_Files/REM1SQ%20Batch%20A%20ncp%20file%20V1.00.03.ncp)
+[V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1SQ%20Batch%20A%20ncp%20file%20V1.00.03.ncp)
 - Batch A, launching version
 - Lot# A236209
 
