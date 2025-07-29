@@ -41,7 +41,7 @@ Notes-
 - Batch A, launching version
 - Lot# A236209
 
-[v1.00.00.04.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1SQ%20Batch%20A%20Updated%20ncp%20file%20V1.00.04.ncp)
+[V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1SQ%20Batch%20A%20Updated%20ncp%20file%20V1.00.04.ncp)
 - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
 - Bug Fixes
 - Lot# A236209
