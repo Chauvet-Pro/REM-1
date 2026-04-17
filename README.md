@@ -28,11 +28,16 @@ Notes-
 - Bug Fixes
 
 [V1.2.2.3.NCP](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1%20Batch%20A%20V1.2.2.3%20.ncp)
-  
+  - BATCH A
+  - Saves rotation fix after unit is powered off
+  - Bug fixes
+
 ## BATCH "B"
 
 [V1.00.04](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
 - Batch B, Launch Version
+
+[ V1.5.3.0]
 
 # REM 1-SQ
 
