@@ -31,7 +31,9 @@ Notes-
   - BATCH A
   - Saves rotation fix after unit is powered off
   - Bug fixes
-[V1.5.3.0.NCP]
+  - If receiving card Version is higher then current version update to the next NCP file. Example: Receiving Card reads V1.3.0 and your NCP file is currently reading V1.2.3 go on to the next Version NCP file.
+
+[V1.5.3.0.NCP](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1-A%20V1.5.3.0.ncp)
 - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
 - Keep Full grayscale turned off at all time when module flashing
 - Bug Fixes
