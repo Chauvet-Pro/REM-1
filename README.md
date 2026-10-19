@@ -31,7 +31,11 @@ Notes-
   - BATCH A
   - Saves rotation fix after unit is powered off
   - Bug fixes
-
+[V1.5.3.0.NCP]
+- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+- Keep Full grayscale turned off at all time when module flashing
+- Bug Fixes
+- 
 ## BATCH "B"
 
 [V1.00.04](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
