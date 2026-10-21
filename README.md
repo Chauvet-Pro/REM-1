@@ -84,6 +84,7 @@ Notes-
 Notes-
 
 [V1.5.3.0.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1SQ%20Batch%20B%20V1.5.3.0.ncp)
+
 -Batch B
   - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
   - Keep Full grayscale turned off at all time when module flashing
