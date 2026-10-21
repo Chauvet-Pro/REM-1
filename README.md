@@ -91,7 +91,8 @@ Notes-
   - Lot# A236462
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1SQ%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
-- Batch B, launching version
+- Batch B
+  - launching version
   - Lot# A236462
 
 
