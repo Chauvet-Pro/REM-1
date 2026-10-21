@@ -22,9 +22,9 @@ Notes-
 
 [V1.5.3.0.NCP](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1-A%20V1.5.3.0.ncp)
 - Batch A
-- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
-- Keep Full grayscale turned off at all time when module flashing
-- Bug Fixes
+  - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+  - Keep Full grayscale turned off at all time when module flashing
+  - Bug Fixes
 
 [V1.2.2.3.NCP](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1%20Batch%20A%20V1.2.2.3%20.ncp)
 - BATCH A
@@ -35,8 +35,8 @@ Notes-
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1%20Batch%20A%20Updated%20ncp%20file%20V1.00.04.ncp)
 - Batch A
-- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
-- Bug Fixes
+  - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+  - Bug Fixes
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1_NCP_file_BatchA_V1.00.03.ncp)
 - Batch A, launching version
@@ -47,10 +47,10 @@ Notes-
 
 [ V1.5.3.0](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1Batch%20B%20V1.5.3.0%20.ncp)
 - Batch B
-- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
-- Keep Full grayscale turned off at all time when module flashing
-- Saves rotation fix after unit is powered off
-- Bug Fixes
+  - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+  - Keep Full grayscale turned off at all time when module flashing
+  - Saves rotation fix after unit is powered off
+  - Bug Fixes
   
 [V1.00.04](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1%20Batch%20B%20ncp%20file%20V1.00.04.ncp)
 - Batch B, Launch Version
@@ -64,18 +64,18 @@ Notes-
 Notes-
 
 [V1.5.3.0.NCP](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1SQ-A%20V1.5.3.0.ncp)
-- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
-- Keep Full grayscale turned off at all time when module flashing
-- Bug Fixes
+  - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+  - Keep Full grayscale turned off at all time when module flashing
+  - Bug Fixes
 
 [V1.00.04.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/Chauvet%20Professional%20REM1%20Batch%20B%20V1.00.04%20.ncp)
-- Improvements to exclude full grayscale from causing visual imperfections in  video rendering
-- Bug Fixes
-- Lot# A236209
+  - Improvements to exclude full grayscale from causing visual imperfections in  video rendering
+  - Bug Fixes
+  - Lot# A236209
 
 [V1.00.03.ncp](https://github.com/Chauvet-Pro/REM-1/raw/refs/heads/main/NCP_Files/REM1SQ%20Batch%20A%20ncp%20file%20V1.00.03.ncp)
-- Batch A, launching version
-- Lot# A236209
+  - Batch A, launching version
+  - Lot# A236209
 
 
 ## Batch "B"
